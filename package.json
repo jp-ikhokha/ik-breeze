@@ -16,7 +16,5 @@
     "url": "https://github.com/jp-ikhokha/ik-breeze/issues"
   },
   "homepage": "https://github.com/jp-ikhokha/ik-breeze#readme",
-  "dependencies": {
-    "np": "^7.0.0"
-  }
+  "dependencies": {}
 }
