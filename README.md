@@ -1,2 +1,2 @@
 # ik-breeze
-Playground for iK UI Kit
+Playground for iKhokha UI Kit
