@@ -1,0 +1,22 @@
+{
+  "name": "ik-breeze",
+  "version": "1.0.0",
+  "description": "Playground for iKhokha UI Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp-ikhokha/ik-breeze.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp-ikhokha/ik-breeze/issues"
+  },
+  "homepage": "https://github.com/jp-ikhokha/ik-breeze#readme",
+  "dependencies": {
+    "np": "^7.0.0"
+  }
+}
